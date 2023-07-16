@@ -1,8 +1,8 @@
-# InstaBackend Basic
+# INSTAGRAM_BASIC_ONLY
 
 InstaBackend Basic is a Spring Boot project that provides basic functionality for user and post management. It includes DTOs for sign-in and sign-up operations, two controllers for handling user and post requests, and corresponding services for each.
 
-## Prerequisites
+## Prerequisites needed
 
 To run this project, ensure that you have the following installed:
 
